@@ -1,5 +1,5 @@
 # Electronics-Store-Sales-Analysis
-🛒 Project Overview /n
+🛒 Project Overview \n
 This project analyzes sales data from an electronics store, covering products like mobile phones, laptops, charging cables, and washing machines. The goal is to uncover key sales trends, customer behavior, and opportunities for business growth.
 
 🔍 Key Findings
